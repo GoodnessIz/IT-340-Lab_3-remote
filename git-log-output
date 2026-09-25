@@ -1,0 +1,31 @@
+commit e5042b8b20a917b51803de98b6a94effd250bf65
+Author: Goodness Iz <izuehiechukwubikem@gmail.com>
+Date:   Fri Sep 25 17:32:07 2026 -0400
+
+    Revert "Added temporary files"
+    
+    This reverts commit aa4e8bae53ef132c49da7493f1af8d149192c86b.
+
+commit aa4e8bae53ef132c49da7493f1af8d149192c86b
+Author: Goodness Iz <izuehiechukwubikem@gmail.com>
+Date:   Fri Sep 25 17:31:29 2026 -0400
+
+    Added temporary files
+
+commit 08f3e9d198311a96aa2cdb779cbf7d4fe6d25823
+Author: Goodness Iz <izuehiechukwubikem@gmail.com>
+Date:   Fri Sep 25 17:30:29 2026 -0400
+
+    Updated group file
+
+commit b6b5ebde29283ee480198a6c22904efd11a470ba
+Author: Goodness Iz <izuehiechukwubikem@gmail.com>
+Date:   Fri Sep 25 16:47:41 2026 -0400
+
+    Updated hostname
+
+commit 5929d23c539afe153fe3bc31704d724f9a7e21e5
+Author: Goodness Iz <izuehiechukwubikem@gmail.com>
+Date:   Fri Sep 25 16:41:47 2026 -0400
+
+    Initial commit: added system files
